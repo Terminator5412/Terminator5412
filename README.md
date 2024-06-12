@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Terminator5412
 - 👀 I’m interested in astronomy,robotics and programming 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on some projects
+- 📫 How to reach me with my mail'ypandey0045@gmail.com'
+- 😄 Pronouns:He/Him
+- ⚡ Fun fact: always believe yourself!
 
 <!---
 Terminator5412/Terminator5412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
