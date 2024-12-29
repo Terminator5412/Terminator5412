@@ -2,7 +2,7 @@
 - 👀 I’m interested in astronomy,robotics and programming 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me with my mail'ypandey0045@gmail.com'
+- 
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: always believe yourself!
 
